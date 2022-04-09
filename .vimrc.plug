@@ -1,0 +1,30 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+"Gruvbox theme
+Plug 'morhetz/gruvbox'
+"Emmet
+Plug 'mattn/emmet-vim'
+"JSX pretty for js and typescript
+Plug 'HerringtonDarkholme/yats.vim'
+Plug 'maxmellon/vim-jsx-pretty'
+"Vim Commentary
+Plug 'tpope/vim-commentary'
+"Async run
+Plug 'skywind3000/asyncrun.vim'
+"SFTP
+Plug 'eshion/vim-sync'
+"An SFTP that actually works (LIE)
+Plug 'hesselbom/vim-hsftp'
+"Nord theme NOT WORKING
+Plug 'arcticicestudio/nord-vim'
+"Dracula theme
+Plug 'dracula/vim', { 'as': 'dracula' }
+"Vim Airline
+Plug 'vim-airline/vim-airline'
+
+call plug#end()
+
+colorscheme nord
+colorscheme dracula

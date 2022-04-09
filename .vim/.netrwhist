@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/thomas/dev/work/mundiware/portal-ar-dev3/assets/css/widgets'
+let g:netrw_dirhist_1='/home/thomas/dev/work/mundiware/portal-ar-dev3/widgets'
+let g:netrw_dirhist_0='/home/thomas/dev/work/mundiware/portal-ar-dev3/modules/home'
+let g:netrw_dirhist_9='/home/thomas/dev/work/mundiware/portal-ar-dev3/templates'
+let g:netrw_dirhist_8='/home/thomas/dev/work/mundiware/portal-ar-dev3/modules/article'
+let g:netrw_dirhist_7='/home/thomas/dev/work/mundiware/portal-ar-dev3/assets/css'
+let g:netrw_dirhist_6='/home/thomas/dev/work/mundiware/portal-ar-dev3'
+let g:netrw_dirhist_5='/home/thomas/dev/work/mundiware/portal-ar-dev3/assets/css'
+let g:netrw_dirhist_4='/home/thomas/dev/work/mundiware/portal-ar-dev3/assets'
+let g:netrw_dirhist_3='/home/thomas/dev/work/mundiware/portal-ar-dev3/modules/components'
